@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boccia – Wikipedia</title>
+    
+    <!-- Open Graph Meta-Tags für die Vorschau auf WhatsApp/Social Media -->
+    <meta property="og:title" content="Boccia – Wikipedia">
+    <meta property="og:description" content="Boccia ist eine Sportart, die Präzision und Strategie vereint. Erfahre alles über die verschiedenen Techniken, Wettkämpfe und die Geschichte dieser spannenden Sportart – auf Wikipedia.">
+    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/ee/Boccia_pictogramme_paralympique.png">
+    <meta property="og:url" content="https://de.wikipedia.org/wiki/Boccia">
+
+    <!-- Automatische Weiterleitung zu deinem Instagram-Profil -->
+    <meta http-equiv="refresh" content="0; url=https://www.instagram.com/lukas_m06?igsh=NnZ5ejhpNWxpYjg3&utm_source=qr/">
+</head>
+<body>
+</body>
+</html>
